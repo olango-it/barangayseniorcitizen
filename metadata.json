@@ -1,0 +1,6 @@
+{
+  "name": "Barangay San Vicente Senior Citizen Information System",
+  "description": "A comprehensive, secure, and professional Senior Citizen Information System for Barangay San Vicente featuring record management (CRUD), PIN login, public verification portal, CSV import/export, and visual reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
